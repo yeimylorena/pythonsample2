@@ -1,0 +1,8 @@
+textarea {
+    min-height: 400px;
+}
+
+#allmails{
+    border-width: 10px;
+    border-color: black;
+}
